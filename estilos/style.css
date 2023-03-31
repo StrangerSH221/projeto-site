@@ -14,3 +14,21 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 }
+
+.imgs{
+    width: 350px;
+}
+
+.texto{
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.voltar{
+    width: 55px;
+
+}
